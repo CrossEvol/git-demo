@@ -12,10 +12,5 @@ hello atguigu.com! hello crossevol!
 hello atguigu.com! hello crossevol!
 hello atguigu.com! hello crossevol!
 hello atguigu.com! hello crossevol!
-<<<<<<< HEAD
 hello atguigu.com! hello crossevol! master test
-hello atguigu.com! hello crossevol!
-=======
-hello atguigu.com! hello crossevol!
 hello atguigu.com! hello crossevol! hot-fix test
->>>>>>> hot-fix
